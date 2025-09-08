@@ -59,6 +59,8 @@ The solution is implemented in a **Jupyter Notebook**, supported by structured d
 
 └── project-phoenix-a-newspaper-s-survival-guide.ipynb
 
+└── app.py
+
 
 ---
 
