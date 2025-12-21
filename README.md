@@ -22,6 +22,7 @@ The solution is implemented in a **Jupyter Notebook**, supported by structured d
 ---
 
 ## 📂 Repository Structure
+<pre>
 
 📁 Newspaper-Survival-Analysis-Bharat-Herald-main
 
@@ -60,7 +61,7 @@ The solution is implemented in a **Jupyter Notebook**, supported by structured d
 └── project-phoenix-a-newspaper-s-survival-guide.ipynb
 
 └── app.py
-
+</pre>
 
 ---
 
