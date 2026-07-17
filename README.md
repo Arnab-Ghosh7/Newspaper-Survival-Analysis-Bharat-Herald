@@ -10,12 +10,7 @@
 
 ---
 
-## 📌 Project Overview
-This project explores the **survival strategy of a newspaper company (Bharat Herald)** in the face of digital transformation. Using real-world inspired datasets, the analysis evaluates:
-- Print vs. digital performance  
-- Revenue streams  
-- City readiness for digital adoption  
-- Ad-hoc business requests  
+
 
 The solution is implemented in a **Jupyter Notebook**, supported by structured datasets, and explained through detailed business problem statements.
 
